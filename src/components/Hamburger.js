@@ -22,6 +22,19 @@ const Hamburger = () => {
                     </li>
                   </ul>
                 </nav>
+                <div className="info">
+                  <h3>Our Promise</h3>
+                  <p>
+                  However live text any such presented. One it steps means, him of subjective never rationale there all writing great. Have expand rewritten pass the then to from positives taking I box to soft close peacefully or their got odd bidding satisfaction deeply, to he of in law, for himself.
+                  </p>
+                </div>
+                <div className="locations">
+                  Locations:
+                  <span>Częstochowa</span>
+                  <span>Warszawa</span>
+                  <span>Gliwice</span>
+                  <span>Sosnowiec</span>
+                </div>
               </div>
             </div>
           </div>

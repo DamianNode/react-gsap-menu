@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom';
+import Hamburger from './Hamburger';
 
 const Header = () => {
     return (
@@ -15,6 +16,7 @@ const Header = () => {
                     </div>
                 </div>
             </div>
+            <Hamburger />
         </header>
     )
 }
